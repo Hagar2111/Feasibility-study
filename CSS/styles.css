@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+h2{
+    color: rgb(14, 14, 121);
+}
+h3{
+    color: rgb(24, 24, 172);
+}
